@@ -49,12 +49,14 @@ const cards = [
     options: 
       'Unlimited blocks for teams, Unlimited file uploads, 30 day page history, Invote 100 guests',
     price: '8',
+    priceId: 'price_1OUlCUAq9it7iG0WVtm5rYZZ',
   },
   {
     title: 'Business',
     subtitle: 'For companies using Notion to conect several teams & tools.',
     options: 
       'SAML SSO, Private teamspaces, Bulk PDF export, Advanced page analytics, 90 day page history, Invite 250 guests',
-    price: '15',   
+    price: '15',  
+    priceId: 'price_1OUlAeAq9it7iG0WGDjP2WFC', 
   }
 ]
