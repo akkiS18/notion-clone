@@ -3,7 +3,7 @@ import React from 'react'
 
 export const Clients = () => {
   return (
-    <div className='max-w-xl'>
+    <div className='max-w-xl'> 
         <h2 className='text-4xl mt-6 font-bold'>
             Millions run on Notion every day
         </h2>
